@@ -1,0 +1,5 @@
+typeorm usage:
+
+to create migration: typeorm migration:create --name nome_tabella
+to run migration: npm run orm migration:run
+to rollback migration: npm run orm migration:revert
