@@ -17,7 +17,7 @@
     "multer": "^1.4.2",
     "reflect-metadata": "^0.1.13",
     "sqlite3": "^5.0.0",
-    "typeorm": "^0.2.28",
+    "typeorm": "^0.3.26",
     "yup": "^0.29.3"
   },
   "devDependencies": {
